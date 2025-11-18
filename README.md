@@ -15,7 +15,8 @@ User Stories:
 - You should have another p element to display the movie rating. Within it, you should have these items in the listed order:
   ```
         A strong element with the text Movie Rating:.
-        A span element with an aria-hidden attribute set to true containing a visual representation of the rating using stars ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆.
+        A span element with an aria-hidden attribute set to true containing a visual
+        representation of the rating using stars ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆.
         A numerical value, representing the rating, in parentheses (e.g. 9.2/10) after the span.
   ```
 - You should have an h2 element with the text Cast Members.
